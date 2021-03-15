@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T09:51:43.779Z" agent="5.0 (Windows)" etag="_b57M3TvqyV13dj8mR3X" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T12:05:23.665Z" agent="5.0 (Windows)" etag="EMKIJGPtvVccMTIidG0r" version="14.4.8" type="github">
   <diagram id="PGjVWBMonYWZeYvdv4Iu" name="Page-1">
     <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,22 +17,32 @@
           <mxGeometry x="300" y="220" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Communiquer à l&#39;opérateur humain&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit communiquer des informations à l&#39;opérateur&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="530" y="220" width="140" height="150" as="geometry" />
+          <mxGeometry x="590" y="220" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Être auto-suffisant en électricité&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit s&#39;autosuffire en électricité&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="220" width="130" height="150" as="geometry" />
+          <mxGeometry x="860" y="220" width="130" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UAhAoKkMDJNA2WPy3asP-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-7" parent="1">
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-5" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAhAoKkMDJNA2WPy3asP-9" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Client" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UAhAoKkMDJNA2WPy3asP-10" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" source="RqvVYnlujedN9LduqDrA-9" target="UAhAoKkMDJNA2WPy3asP-9" parent="1">
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-12" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="470" as="sourcePoint" />
+            <mxPoint x="530" y="190" as="sourcePoint" />
+            <mxPoint x="380" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-13" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="160" as="sourcePoint" />
+            <mxPoint x="800" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-14" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="140" as="sourcePoint" />
+            <mxPoint x="405" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
