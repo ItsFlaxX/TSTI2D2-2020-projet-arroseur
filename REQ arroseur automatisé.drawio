@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T08:42:39.647Z" agent="5.0 (Windows)" etag="4mIDyIzYEi-mGbFdUAK1" version="14.4.8" type="github"><diagram id="PGjVWBMonYWZeYvdv4Iu" name="Page-1">7VrbbuM2EP0aIU8JdPH10XG2aYFtsWiAtnmUJdpiVxJlivKlX98ZkrpQUuzEgNOtbcCAxeH9zJk5pGzLmye7Z+5n0a8sJLHl2uHO8p4s13UGrmvhxw73yjL2hsqw4jTUjWrDC/2HaKOtrQUNSW40FIzFgmamMWBpSgJh2HzO2dZstmSxOWvmr0jH8BL4cdf6Jw1FpKwTd1zbfyZ0FZUzO6Opqkn8srHeSR75Ids2TN4Xy5tzxoR6SnZzEiN4JS6q309v1FYL4yQV7+nw+3rzx2saF3+T8Lfp17BYP/HZvR5l48eF3rDljmIY7zGkG4QwpqtUVozWBa70MSZLUZfgaaW/Za9Fw+AnGTykixy/OFlbuEDVDFZZtUQv5aTgOFshGOBGc2vuWbNpNShvTwP95fpKq8RX7EunRSKJ4cmBOkA9Q2uyWyFBH/J9nsQPmR98l45/ZBvCl7H0y5ICXrBBf0Hiv7D7YIADCM6+V753ccEakwCAJ7yaHwYSZPemc5zK5RArhCVE8D000R0GmiR7s7itKTcdaVvUoNuobOhrmq+qkWsmwIMmwweI4b5JjMzAuiRC4vMVBVRmUGtnO/Q1AmMr+71gmaobNOoALnGv0cQ6DWgfuRSX4m4JeFVQThLEuawwO5n87FCp4uEMeYikgGQFGce1SQ40kU/oWvwOi+44+boAL0Pls58siBD+QdYuemxZ2xZ1enaa9HU7yTEynGXl5IBn+oMeWxlzfUUcIMKEjN9JIrFkVGAoEA7EFBKp8E7FPJcj90NNUp0PUpZQolJHPX0L4F9CYxlOt62JVytdlDmCSwHpSQmNfLKNqCAvuFowbCGlnCshuGZGGHYzAvizmxEc71wZwbu6jPCsZIgrot6xAj1a8DpDbHw4dOS3gO8NeICLUURu9W4Y3x3gD5cQ4mMzwquDYiPEnUFfiA/PFeKDvhA/EGhLmpLDMdZyAwnhcK2LKUuJCTxJQxRh9ArLQACkRV8JHDx5hX4ekVC3RuwpHNRn2jULJuD0iJ12VOD5zX5wh7r4Ws4Az08Iv10W9mUhBQBVr2FZfG3W1d1kqeyntoj7OswCgIEVPCDHj1wC4pSIY4m4y6ombcqzIicxHKc35tr6aKOH+8YoZs2SoSPHpKjXPm6qPelezbtHa6Dx+MhAatOdgSSLqz2eTuzh1WnXN+BfKHNswJJMqGQr8y9JN5TjbVnP8qZS9erZdWhXBZ4SqBDgUiImi7m8rAZYD+7SoAomJe0DGuZegIZ59g8nYqObiP0PRGz4aSLW1p7q2vRREZt6RwY6s4iNr07E5ixJipSuC3l1kBnYVneITN8pfKHeHEZF4sNeb2rWo2aBgaJSNJouGcdXrSzND0P7AUHzLkDQhu0g/+8FbXJhgnaRejb+vEvZsMVQ50Q9mzhHBjqznk2vTs8ws05m6iU4vtu+z4vlkua+9Ip8461ybwwJkdOACvN3sJusNWUtv0MIJYIS0IP4vV/EBhcgYuN2iugTMe9TRazMLTcV+5FVbPp5t7LWL97Oqa8Wp/aRgU5WMSjW/85Qzev/uHhf/gU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-15T09:51:43.779Z" agent="5.0 (Windows)" etag="_b57M3TvqyV13dj8mR3X" version="14.4.8" type="github">
+  <diagram id="PGjVWBMonYWZeYvdv4Iu" name="Page-1">
+    <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;  ReqDiagram&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="990" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvVYnlujedN9LduqDrA-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Arrosage des espaces verts du&lt;br&gt;square Gambetta&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit permettre d&#39;arroser les espaces verts en autonomie &quot;&lt;br&gt;Id=&quot;1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="50" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvVYnlujedN9LduqDrA-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Gérer les vannes&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit pouvoir gérer l&#39;ouverture des vannes&quot;&lt;br&gt;Id=&quot;1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;value:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="220" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvVYnlujedN9LduqDrA-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Prendre compte de l&#39;environnement&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit prendre des données sur ce qui l&#39;entoure&quot;&lt;br&gt;Id=&quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="220" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvVYnlujedN9LduqDrA-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Communiquer à l&#39;opérateur humain&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit communiquer des informations à l&#39;opérateur&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="220" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RqvVYnlujedN9LduqDrA-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Être auto-suffisant en électricité&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit s&#39;autosuffire en électricité&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="750" y="220" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-9" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Client" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAhAoKkMDJNA2WPy3asP-10" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" source="RqvVYnlujedN9LduqDrA-9" target="UAhAoKkMDJNA2WPy3asP-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
