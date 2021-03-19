@@ -1,29 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T13:49:43.433Z" agent="5.0 (Windows)" etag="wDppS2IbRTCWuWh86Pd6" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T14:39:27.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="H88JxGyvzaLHZzGQrLIN" version="14.4.9" type="github" pages="2">
   <diagram id="PGjVWBMonYWZeYvdv4Iu" name="Page-1">
-    <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UAhAoKkMDJNA2WPy3asP-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;  ReqDiagram&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="30" width="990" height="700" as="geometry" />
+          <mxGeometry x="-20" y="60" width="1030" height="670" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Arrosage des espaces verts du&lt;br&gt;square Gambetta&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit permettre d&#39;arroser les espaces verts en autonomie &quot;&lt;br&gt;Id=&quot;1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="420" y="50" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qFPM3HfI14Ys-bUkFQgh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqvVYnlujedN9LduqDrA-3" target="qFPM3HfI14Ys-bUkFQgh-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Commander les vannes&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit pouvoir gérer l&#39;ouverture des vannes&quot;&lt;br&gt;Id=&quot;1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;value:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="220" width="140" height="150" as="geometry" />
+          <mxGeometry x="70" y="220" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Prendre compte de l&#39;environnement&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit prendre des données sur ce qui l&#39;entoure&quot;&lt;br&gt;Id=&quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="300" y="220" width="140" height="150" as="geometry" />
+          <mxGeometry x="230" y="220" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Communiquer à l&#39;opérateur humain&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit communiquer des informations à l&#39;opérateur&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="220" width="140" height="150" as="geometry" />
+          <mxGeometry x="580" y="220" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RqvVYnlujedN9LduqDrA-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Être auto-suffisant en électricité&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit s&#39;autosuffire en électricité&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="860" y="220" width="130" height="150" as="geometry" />
+          <mxGeometry x="750" y="220" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UAhAoKkMDJNA2WPy3asP-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RqvVYnlujedN9LduqDrA-2" target="RqvVYnlujedN9LduqDrA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -46,11 +43,51 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="140" as="sourcePoint" />
             <mxPoint x="405" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="200" />
+              <mxPoint x="520" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qFPM3HfI14Ys-bUkFQgh-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Gérer les vannes&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit pouvoir gérer l&#39;ouverture des vannes&quot;&lt;br&gt;Id=&quot;1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;value:&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="390" width="140" height="150" as="geometry" />
+        <mxCell id="4fEuNx94wUViEWzN496W-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.4999999999998" y="370" as="sourcePoint" />
+            <mxPoint x="294.4999999999998" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
+        <mxCell id="4fEuNx94wUViEWzN496W-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distribution de l&#39;eau&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit distribuer une quantité d&#39;eau la plus responsable écologiquement&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jazbtrh_SZzhGaPbs_OK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.57999999999973" y="370" as="sourcePoint" />
+            <mxPoint x="139.57999999999973" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="380" />
+              <mxPoint x="140" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jazbtrh_SZzhGaPbs_OK-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Polyvalence dans les mesures&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Doit pouvoir capter l&#39;humidité du sol, la température extérieure et la pression d&#39;entrée et de sortie de vanne&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jazbtrh_SZzhGaPbs_OK-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Planifier l&#39;arrosage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit offrir la posibilité de planifier des arrosages&amp;nbsp;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jazbtrh_SZzhGaPbs_OK-10" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jazbtrh_SZzhGaPbs_OK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="180" as="sourcePoint" />
+            <mxPoint x="897" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ExZxdbpATsGi10-R0Btx" name="Page-2">
+    <mxGraphModel dx="666" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gl8JM7iIfVu1BZF0Ul4F-0" />
+        <mxCell id="gl8JM7iIfVu1BZF0Ul4F-1" parent="gl8JM7iIfVu1BZF0Ul4F-0" />
       </root>
     </mxGraphModel>
   </diagram>
