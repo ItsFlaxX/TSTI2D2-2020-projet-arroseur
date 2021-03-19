@@ -1,0 +1,7 @@
+électrovanne
+specs:
+    4.8 W / 12 V / 0.4 A
+    Pression: 0 -> 0.8 MPa
+    
+on sait qu'on va pas pouvoir l'alimenter avec l'Arduino.
+on peut utiliser une alim externe, mais on peut du coup aussi utiliser une batterie ( couplée avec un panneau solaire par exemple): FC1
