@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T10:32:20.381Z" agent="5.0 (Windows)" etag="M7em2m6X8AFCRiPTzNx8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T10:46:21.473Z" agent="5.0 (Windows)" etag="qQfN4ZEo-5XRNffIgjgf" version="14.4.9" type="github">
   <diagram id="6eqYqRTth382LrduP_o_" name="Page-1">
     <mxGraphModel dx="1422" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="ppV6EDuLgcRE_63jkB19-3" value="Opérateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ppV6EDuLgcRE_63jkB19-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;12V - 0.4A&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="740" y="90" width="80" height="40" as="geometry" />
+        <mxCell id="ppV6EDuLgcRE_63jkB19-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;ALIM MIN.&lt;br&gt;/ vanne:&lt;br&gt;12V - 0.4A&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="740" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppV6EDuLgcRE_63jkB19-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Eau&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="740" y="390" width="80" height="40" as="geometry" />
