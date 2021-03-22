@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T08:24:54.457Z" agent="5.0 (Windows)" etag="Wbs8nO38FFlOAUAS6vAA" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T08:26:54.007Z" agent="5.0 (Windows)" etag="foNPMvZJH-knwM2LMuYg" version="14.4.9" type="github">
   <diagram id="CkIHglHdtgA-dPwqu3pV" name="Page-1">
     <mxGraphModel dx="1422" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="NTSCTb8R0baRO63U2myw-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="454" y="-1070" width="10" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="NTSCTb8R0baRO63U2myw-17" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;" parent="1" source="NKWG3AKv70S2Wi0AjR7t-3" edge="1">
+        <mxCell id="NTSCTb8R0baRO63U2myw-17" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;exitX=1.5;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NTSCTb8R0baRO63U2myw-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="-970" as="sourcePoint" />
             <mxPoint x="450" y="-970" as="targetPoint" />
@@ -242,18 +242,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NKWG3AKv70S2Wi0AjR7t-3" value="ouvrir vanne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-980" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NKWG3AKv70S2Wi0AjR7t-4" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;" parent="1" target="NKWG3AKv70S2Wi0AjR7t-3" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="-970" as="sourcePoint" />
-            <mxPoint x="450" y="-970" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="290" y="-970" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NKWG3AKv70S2Wi0AjR7t-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Quand heure = heure arrosage programmé&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-920" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NKWG3AKv70S2Wi0AjR7t-6" value="ouvrir vanne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="NKWG3AKv70S2Wi0AjR7t-6" value="fermer vanne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="-890" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
