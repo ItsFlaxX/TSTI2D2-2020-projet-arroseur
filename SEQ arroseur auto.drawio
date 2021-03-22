@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T09:32:32.983Z" agent="5.0 (Windows)" etag="Ncv_uOMN0R6K8Uv21Kl8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T10:21:49.736Z" agent="5.0 (Windows)" etag="Kqwa6cr6gn_QsU1obJ-Z" version="14.4.9" type="github">
   <diagram id="CkIHglHdtgA-dPwqu3pV" name="Page-1">
     <mxGraphModel dx="1422" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,11 +274,11 @@
             <mxPoint x="220" y="-890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p50iJhEUErg3qz43o9eh-9" value="envoyer signal vanne ouverte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="248.5" y="-910" width="170" height="20" as="geometry" />
+        <mxCell id="p50iJhEUErg3qz43o9eh-9" value="SI pression vanne sortie &amp;gt; 0&lt;br&gt;envoyer signal vanne ouverte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-920" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p50iJhEUErg3qz43o9eh-10" value="envoyer signal vanne fermée" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="-740" width="170" height="20" as="geometry" />
+        <mxCell id="p50iJhEUErg3qz43o9eh-10" value="&lt;div&gt;SI pression vanne sortie = 0&lt;/div&gt;&lt;div&gt;envoyer signal vanne fermée&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-750" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p50iJhEUErg3qz43o9eh-11" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=1;endSize=12;verticalAlign=bottom;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
