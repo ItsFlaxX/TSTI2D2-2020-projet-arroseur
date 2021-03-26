@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T14:32:39.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w2UGUDCVNFuVkXTSWBvX" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T14:37:21.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="X3Mukij23URbBzeuhzVj" version="14.4.9" type="github">
   <diagram id="_HG9UhCbACeFY6xR2h-d" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="150" y="180" width="450" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1OpiZn_RMB7CZ_3JZA8x-43" target="1OpiZn_RMB7CZ_3JZA8x-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4WyXRdHTCZjyCxqxyUb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.708;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1OpiZn_RMB7CZ_3JZA8x-43" target="P4WyXRdHTCZjyCxqxyUb-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-43" value="Énergie Électrique" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -103,6 +106,9 @@
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-61" value="Traiter&lt;br&gt;&lt;br&gt;Carte arduino" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P4WyXRdHTCZjyCxqxyUb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1OpiZn_RMB7CZ_3JZA8x-66" target="P4WyXRdHTCZjyCxqxyUb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-66" value="Communiquer&lt;br&gt;&lt;br&gt;Application" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -155,7 +161,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4WyXRdHTCZjyCxqxyUb-17" value="Batterie: 12V DC" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="220" width="160" height="60" as="geometry" />
+          <mxGeometry x="-10" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P4WyXRdHTCZjyCxqxyUb-19" value="Afficher information état vanne&lt;br&gt;afficher information capteur" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
