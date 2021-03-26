@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T14:15:08.461Z" agent="5.0 (Windows)" etag="cGZwh05jtyMSFknv6IyR" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T14:15:48.932Z" agent="5.0 (Windows)" etag="G5GwuamI5Q1YgKKMRXcV" version="14.5.1" type="github">
   <diagram id="_HG9UhCbACeFY6xR2h-d" name="Page-1">
     <mxGraphModel dx="2249" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-75" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;Chaîne d&#39;information&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=138;strokeWidth=2;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-50" y="90" width="830" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="1OpiZn_RMB7CZ_3JZA8x-52" value="²" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="1OpiZn_RMB7CZ_3JZA8x-52" value="" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="450" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1OpiZn_RMB7CZ_3JZA8x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1OpiZn_RMB7CZ_3JZA8x-43" target="1OpiZn_RMB7CZ_3JZA8x-44" edge="1">
