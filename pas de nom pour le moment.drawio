@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T14:31:13.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="B_cpHIYr0YU10QyHRev1" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T14:32:39.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w2UGUDCVNFuVkXTSWBvX" version="14.4.9" type="github">
   <diagram id="_HG9UhCbACeFY6xR2h-d" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
             <mxPoint x="135" y="669.8" as="sourcePoint" />
             <mxPoint x="155" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P4WyXRdHTCZjyCxqxyUb-17" value="Batterie: 12V DC" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="220" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
